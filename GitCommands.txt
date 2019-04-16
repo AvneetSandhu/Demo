@@ -1,0 +1,7 @@
+1. Git version    or     Git --version
+2. Git config --list
+3. cd D:
+   cd git  // folder name = git    
+    OR
+   cd \D:\git
+4. git init
